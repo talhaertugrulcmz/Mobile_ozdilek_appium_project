@@ -1,0 +1,1 @@
+var index = {"Tags":{"ozdilek appium projesi":["specs/Senaryo.html"]},"Specs":{"Specification Heading":["specs/Senaryo.html"]}};
