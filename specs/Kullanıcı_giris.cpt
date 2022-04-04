@@ -1,0 +1,15 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı e-posta giris
+* "com.ozdilek.ozdilekteyim:id/etEposta" elementi bul ve "talhaertugrul.comez@testinium.com" e-posta girisi yap
+*"2" saniye kadar bekle
+
+# Kullanıcı şifre giris
+*"com.ozdilek.ozdilekteyim:id/etPassword" elementi bul ve "1a2s3d4f." e-posta girisi yap
+*"2" saniye kadar bekle
+
+# Sayfadan geri gelme
+*"com.ozdilek.ozdilekteyim:id/ivBack" elemetin sayfada gorunur olduğunu kontrol et ve tıkla
+*"2" saniye kadar bekle
+
